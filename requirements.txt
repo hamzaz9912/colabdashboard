@@ -1,6 +1,5 @@
 streamlit
 yfinance
-pandas_ta
 scikit-learn
 torch
 xgboost
